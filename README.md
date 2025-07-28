@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Dwivedi</h1>
 <h3 align="center">A passionate Web developer from MNNIT Allahabad,Prayagraj ,India</h3>
 
-- 🔭 I’m currently working on [MindMap.AI](https://github.com/utkarshup32/MindMap-AI)
+- 🔭 I’m currently working on [WELTH](https://github.com/utkarshup32/WELTH.git)
 
 - 📫 How to reach me **utkarshdwivedi1879@gmail.com**
 
