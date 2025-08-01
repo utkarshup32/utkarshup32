@@ -22,7 +22,12 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshup32&show_icons=true&locale=en&layout=compact" alt="utkarshup32" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshup32&" alt="utkarshup32" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vardhan0711/vardhan0711/output/github-snake-dark.svg" />
